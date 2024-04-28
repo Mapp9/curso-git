@@ -1,1 +1,2 @@
-Día 1: Creando el proyecto
+Día 1: Creando el proyecto.
+Día 2: Subiendo el primer commit.
